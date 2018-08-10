@@ -1,0 +1,6 @@
+the_ROM_image:
+{
+	[bootloader]/home/ckj/git_dir/vivado_study/proj1.sdk/fsbl/Debug/fsbl.elf
+	/home/ckj/git_dir/vivado_study/proj1.runs/impl_1/system.bit
+	/home/ckj/git_dir/vivado_study/proj1.sdk/hello/Debug/hello.elf
+}
